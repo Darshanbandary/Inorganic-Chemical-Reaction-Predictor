@@ -1,0 +1,45 @@
+body {
+    background: url('https://images.app.goo.gl/ctPNhmNXS8YyW8eM7') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 1em;
+    width: 300px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
